@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-financial-statements-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-financial-statements",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-financial-statements-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/financial-statements.md",
+  "presentationPlan": "projects/accounting/nextjs/financial-statements.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
